@@ -1,0 +1,12 @@
+// Your code here...
+#include <stdio.>
+int main(){
+    int a;
+    int b;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    sum= a+b;
+    printf("Sum: %d",sum);
+    return 0;
+    
+}
